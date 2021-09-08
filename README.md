@@ -1,4 +1,10 @@
-<?php
-$name = "Quincy";
-echo "Hi! My name is " . $name . "<br>";
-?>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Developer News</h1>
+
+<?php echo "The Best PHP Examples"; ?>
+
+</body>
+</html> 
